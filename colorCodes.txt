@@ -1,0 +1,7 @@
+#85929E - background color
+
+#337ab7 - bg color
+
+#85929E - dark grey
+
+#5D6D7E - darker grey
